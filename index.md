@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Not much here yet, but ... and --- 
+Not much here yet, but ..., ---, and $$\begin{psmallmatrix} 1 \\ 0 \end{psmallmatrix}$$
