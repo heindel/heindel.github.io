@@ -12,6 +12,11 @@ layout: home
   "AssistiveMML.js",
   "a11y/accessibility-menu.js"
   ],
+  tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      displayMath: [ ['$$','$$'], ["\\(","\\)"]  ],
+      processEscapes: true
+      },
   jax: ["input/TeX", "output/CommonHTML"],
   TeX: {
   extensions: [
@@ -26,4 +31,8 @@ layout: home
   <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>  
-Not much here yet, but ..., ---, and $$x^2$$
+Not much here yet, but ..., ---, and 
+$$e^{i\pi}$$. 
+
+
+
