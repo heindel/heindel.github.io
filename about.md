@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Tobias Heindel holds a PhD in computer science. Supervisors, managers, hosts, and the like in chronological order have been: 
+[Tobias Heindel](https://keybase.io/heindel) holds a PhD in computer science. Supervisors, managers, hosts, and the like in chronological order have been: 
 
 Peter Schroeder-Heister (Master's degree),
 Barbara König (PhD supervisor),
