@@ -17,4 +17,7 @@ Vincent Danos,
 Jakob Grue Simonsen,
 Manfred Droste,
 Dusko Pavlovic,
-Uwe Nestmann
+Uwe Nestmann, 
+Ingo Weber
+
+Currently half post-doc half lecturer at [TU Berlin](https://www.tu-berlin.de/menue/home/parameter/en/)
