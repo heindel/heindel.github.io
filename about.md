@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-[Tobias Heindel](https://keybase.io/heindel) holds a PhD in computer science. Supervisors, managers, hosts, and the like in chronological order have been: 
+Hi! 
+
+My full name is [Tobias Heindel](https://keybase.io/heindel). I hold a PhD in computer science. Supervisors, managers, hosts, and the like in chronological order have been: 
 
 Peter Schroeder-Heister (Master's degree),
 Barbara König (PhD supervisor),
@@ -18,6 +20,6 @@ Jakob Grue Simonsen,
 Manfred Droste,
 Dusko Pavlovic,
 Uwe Nestmann, 
-Ingo Weber
+Ingo Weber, my current boss.
 
-Currently half post-doc half lecturer at [TU Berlin](https://www.tu-berlin.de/menue/home/parameter/en/)
+My current position is a mix of post-doc and lecturer at [TU Berlin](https://www.sbe.tu-berlin.de/menue/team/dr_tobias_heindel/); the German system is one of a kind!
