@@ -20,6 +20,6 @@ Jakob Grue Simonsen,
 Manfred Droste,
 Dusko Pavlovic,
 Uwe Nestmann, 
-Ingo Weber, my current boss.
+Ingo Weber. And now for something completely different. 
 
-My current position is a mix of post-doc and lecturer at [TU Berlin](https://www.sbe.tu-berlin.de/menue/team/dr_tobias_heindel/); the German system is one of a kind!
+I have joined the [Heliax team](https://heliax.dev) to help build [Anoma](https://anoma.network/). Exciting times! 
