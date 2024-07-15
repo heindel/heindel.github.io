@@ -22,4 +22,4 @@ Dusko Pavlovic,
 Uwe Nestmann, 
 Ingo Weber. And now for something completely different. 
 
-I have joined the [Heliax team](https://heliax.dev) to help build [Anoma](https://anoma.network/). Exciting times! 
+I have joined the [Heliax team](https://heliax.dev) to build [Anoma](https://anoma.network/). And we are getting closer! 
